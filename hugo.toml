@@ -1,0 +1,8 @@
+baseURL = 'https://sallvio.io/rutarota/"
+locale = 'en-us'
+title = "RutaRota"
+theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
