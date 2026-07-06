@@ -1,4 +1,4 @@
-baseURL = 'https://sallvio.io/rutarota/"
+baseURL = "https://sallvio.io/rutarota/"
 locale = 'en-us'
 title = "RutaRota"
 theme = 'ananke'
