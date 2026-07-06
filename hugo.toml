@@ -3,6 +3,6 @@ locale = 'en-us'
 title = "RutaRota"
 theme = 'ananke'
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+caches:
+  images:
+    dir: ':cacheDir/images'
